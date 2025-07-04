@@ -66,18 +66,4 @@ You will see simulated market data, arbitrage detection, and risk metrics output
 - The codebase is organized for clarity and ease of extension.
 - For more details, see comments in the respective files.
 
-## License
 
-MIT License
-
----
-
-*“Synthetic Pair Engine: Modular, fast, and extensible arbitrage detection for crypto markets.”*
-This README is concise, covers your folder structure , and provides clear build/run instructions, a project overview, and a component summary. Adjust the GitHub URL as needed.
-
-Related
-What key sections should I include in my README.md for clarity
-How can I effectively highlight main features and usage instructions
-Should I add badges to improve the visual appeal of my README
-How do I structure the project overview to attract contributors
-Can you suggest a concise template for documenting installation steps
